@@ -1,10 +1,11 @@
 ---
 layout: page
-title: OrangeRapport
+title: Orange Rapport
 permalink: /OrangeRapport/
 ---
 
-Grafer i Orange Rapport
+[Grafer från Orange Rapport](https://www.pensionsmyndigheten.se/OrangeRapport2014.html)
+
 
 ### Orange Rapport
 
