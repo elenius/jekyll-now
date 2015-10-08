@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Galleri
 permalink: /Galleri/
 ---
