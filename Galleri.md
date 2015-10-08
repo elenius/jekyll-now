@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Galleri
-permalink: /Galleri/
 ---
 
 Some information about you!
