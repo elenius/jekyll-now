@@ -1,7 +1,7 @@
 ---
 layout: post
-title: about
-permalink: /about/
+title: Galleri
+permalink: /Galleri/
 ---
 
 Some information about you!
