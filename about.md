@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orange rapport
-permalink: /Orange Rapport/
+permalink: /OrangeRapport/
 ---
 
 Some information about you!
