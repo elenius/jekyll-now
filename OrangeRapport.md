@@ -6,5 +6,5 @@ permalink: /OrangeRapport/
 
 Grafer i Orange Rapport
 
-### More Information
+### Orange Rapport
 
